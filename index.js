@@ -19,6 +19,6 @@ function decrement(n) {
 function makeint(n) {
 
 }
-function preserveDecimal(string) {
+function preserveDecimal(n) {
   return
 }
