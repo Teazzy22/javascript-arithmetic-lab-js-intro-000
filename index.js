@@ -16,9 +16,8 @@ function increment(n) {
 function decrement(n) {
   return (--n)
 }
-function makeInt(n) {
+function makeInt('n', 10) {
   return (n)
-  base = 10;
 }
 function preserveDecimal(n) {
   return (n)
