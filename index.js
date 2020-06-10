@@ -17,8 +17,8 @@ function decrement(n) {
   return (--n)
 }
 function makeInt(string) {
-  return ()
+  return
 }
 function preserveDecimal(string) {
-  return ()
+  return
 }
