@@ -20,3 +20,6 @@ function makeInt(n) {
   return (n)
   base = 10;
 }
+function preserveDecimal(n) {
+  return (n)
+}
