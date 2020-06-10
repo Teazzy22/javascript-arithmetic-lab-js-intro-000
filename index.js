@@ -17,5 +17,6 @@ function decrement(n) {
   return (--n)
 }
 function makeInt(n) {
+  var base = 10;
   return (n)
 }
