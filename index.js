@@ -16,7 +16,7 @@ function increment(n) {
 function decrement(n) {
   return (--n)
 }
-function makeint(string n, 10) {
+function makeint(n) {
   return n
 }
 function preserveDecimal(n) {
